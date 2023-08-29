@@ -28,6 +28,5 @@ public class Principal {
 		for(int i = 0; i < tamanho3; i++) {
 			System.out.print(vet3[i] + " " );
 	}
-		System.out.println("");
 	}
 }
